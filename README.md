@@ -1,0 +1,1 @@
+This repository contains a simple Rust program demonstrating a data race. The program modifies a vector using a raw pointer without synchronization, leading to undefined behavior.  The solution demonstrates how to use safe Rust techniques or mutexes to avoid data races.
